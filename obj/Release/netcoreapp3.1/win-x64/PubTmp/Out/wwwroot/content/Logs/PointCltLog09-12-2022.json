@@ -1,0 +1,16 @@
+{
+    "PointId":0,
+    "PointName":"",
+    "RouteCode":"0000000001",
+    "RouteId":1,
+    "Lat":"17.4933238",
+    "Lng":"78.3960123",
+    "Address":"Clock Inn P.G accommodation",
+    "Remarks":"",
+    "LoginId":"7338859334",
+    "TripId":1,
+    "VehicleUId":"HMSW/G/0001",
+    "BPhotoStamp":""
+}
+
+{"PointId":"199","ActPointId":"199","PointName":"Fish Market_C14","RouteCode":"Z3-C14-R225","RouteId":"225","Lat":"17.37507053","Lng":"78.4701727","BPhotoStamp":"2022/12/09T10:30:54","Remarks":"","LoginId":"9908859461","TripId":"3","AppVersion":"1.20","IsDeviated":false,"VehicleUId":"HMSW/M/05700"}Error-error
