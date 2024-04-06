@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HYDSWMAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a73ec4ec6aef90f4e5939d8316a367ebdfd0bde")]
 [assembly: System.Reflection.AssemblyProductAttribute("HYDSWMAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HYDSWMAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
